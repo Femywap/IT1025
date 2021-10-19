@@ -1,7 +1,7 @@
 ## Femi Fabiku / 10/14/2021
 
 ## Executive Summary 
-Include your executive summary here...
+Chapter three gives a summary on vitual machine, python, and provided resources for job search. 
 
 ## Software is the set of instructions that tell the hardware what to do. 
 
@@ -30,11 +30,8 @@ Compiled Language  It is one where the program, once compiled, is expressed in t
 
 ### Handshake: 
 ### Bureau of Labor Statistics- Per BLS, Information security Analyst job outlook has increased 33% than average.
-### Certifications
-### Certificates and Degrees
+### Certifications: There are three categories of Cisco certification. Rating from the entrary level to an expert level.
+### Certificates and Degrees: 
 ### Co-ops / Internships
-### Industry Associations / Student Organizations
 
 ## Conclusion
-
-Include your professional conclusion here...
