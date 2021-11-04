@@ -1,15 +1,15 @@
 ## Your Name / Date
 Femi Fabiku/ 
 ## Executive Summary
-While Git is a command line tool, GitHub provides a Web-based graphical interface. It also provides access control and several collaboration features, such as a wikis and basic task management tools for every project
+This is an example, please delete and create your own professional summary:
+The purpose of Lab 1 is to explore the IT1025 course set-up, examine the history of computing and get up and running with GitHub. IT1025 covers a wide-range of computing topics with a primary goal of assisting in determining student passions in IT.  IT history has many interesting facets. One of particular interest was... Regardless of one's passion in IT, frameworks such as GitHub are useful to create, update and maintain any type of file and work in an organized repository.
+
 ## Information System Components
 
-## 
-### 3 Question responses
-How much space do you have on Github
-How do you create repository
-how do you commit (save) your work on github
-### 
+## GitHub
+### Client - Server Architecture
+### Cloud Computing
 
 ## Conclusion
- I look forward to spending more time on GitHub and its work space. 
+This is an example, please delete and create your own professional summary:
+Through the course of this lab I learned about the course requirements for IT1025 as well as an overview of client-server architecture and GitHub.  I found GitHub to be interesting but initially had difficulty creating a respoitory.  I revisited the process but was still stumped so I contacted my instructor and with a few pointers was then able to complete the process successfully. I look forward to spending more time on GitHub and eventually learning about database which I believe is my current IT passion.
