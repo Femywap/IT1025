@@ -8,17 +8,17 @@ Include your executive summary here...
 ## Introduction to Networking
 
 ### Data Transmission
-#### Packet:
-#### Packet-Switching:
-#### IP Address:
+#### Packet:The fundamental unit of data transmitted over the Internet
+#### Packet-Switching:Technology that allows packets of data to be routed based on destination address 
+#### IP Address:Every device on the Internet (personal computer, a tablet, a smartphone, etc.) is assigned a unique identifying number
 
-#### DNS:
+#### DNS:DNS stands for “domain name server or system.” DNS acts as the directory of websites on the Internet.
 
-#### Protocol:
+#### Protocol:A protocol is the set of rules that govern how communications take place on a network. For example, File Transfer Protocol (FTP) are the communication rules for transferring files from one host to another. 
 
 ### Networking Hardware
-#### Switch vs. Hub
-#### Router vs. Switch and Hub
+#### Switch vs. Hub: Hub connect all the network devices together on a internal network. A switch can locate the physical IP addres of computer sending data but hub cannot
+#### Router vs. Switch and Hub:routers are network endpoints while switches and hubs are not. Switches merely pass the data along to the destination; hubs broadcast it to all connected endpoints, while routers read and process the data in order to determine where it needs to go
 ### Network Topologies
 #### Single point of Failure
 #### Infrastrucutre vs. Wireless Mesh
