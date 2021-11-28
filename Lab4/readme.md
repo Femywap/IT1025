@@ -1,7 +1,7 @@
 ## Your Name / Date
 
 ## Executive Summary 
-Include your executive summary here...
+This chapter explains pyton data set and type of graphic compression used to creat a website. 
 
 ## Python IDLE
 The shell is the UNIX/Linux command line, and a shell script is a file which is executed that contains (basically) the same commands which might be entered on the command line.
