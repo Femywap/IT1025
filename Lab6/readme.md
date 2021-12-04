@@ -5,7 +5,7 @@ Include your executive summary here...
 
 ## Internet Architecture
 ### Internet Protocol
-#### IP Address
+#### IP Address: IP addresses are the numbers assigned to computer network interfaces. The number of IPv6 addresses is 1028 times larger than the number of IPv4 addresses.
 #### ICANN
 
 ### TCP/IP
