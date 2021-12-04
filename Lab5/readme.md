@@ -30,18 +30,27 @@ Include your executive summary here...
 ### Information Systems Security
 
 #### Security Triad
-#### Authentication
-#### ACL and RBAC
-#### Ciphertext, Public Key and Private Key
-#### Public Key Cryptography
+Confidentiality: Customers purchase and subscription must be protected. 
+
+Integrity: Restrict access to customers credit card information. No charges on customers CC without consent. 
+
+Availability: Customers Information given to suppliers or logistic companies should be used for its intended purpose. 
+
+#### Authentication; Instead of using one, multi-factor more secure
+
+
+
+#### ACL and RBAC: is better suited for implementing security at the individual user level and for low-level data, while RBAC better serves a company-wide security system with an overseeing administrator.
+
+#### Public Key Cryptography :One key (public key) is used to encrypt the plain text to convert it into cipher text and another key (private key) is used by the receiver to decrypt the cipher text to read the message.
 
 ### Cryptography
 #### Encryption
 #### Frequency Fingerprint
-#### Polyalphabetic Cipher
-#### Polyalphabetic Example
+#### Polyalphabetic Cipher any cipher based on substitution, using multiple substitution alphabets
+#### Polyalphabetic Example:  The Vigenère cipher is the best example
 
-#### Brute-Force
+#### Brute-Force is a cryptographic hack that relies on guessing possible combinations of a targeted password until the correct password is discovered.
 
 ## Conclusion
 Include your professional conclusion here...
