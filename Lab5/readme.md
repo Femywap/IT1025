@@ -16,14 +16,15 @@ Include your executive summary here...
 
 #### Protocol:A protocol is the set of rules that govern how communications take place on a network. For example, File Transfer Protocol (FTP) are the communication rules for transferring files from one host to another. 
 
-### Networking Hardware
+### Networking Hardware: a switch is the connection point for the computers (and other devices) in a network. However, a switch is more efficient at passing along traffic.
+Router is also more intelligent and sophisticated to serve as an intermediate destination to connect multiple area networks together. A switch is only used for wired network, yet a router can also link with the wireless network
 #### Switch vs. Hub: Hub connect all the network devices together on a internal network. A switch can locate the physical IP addres of computer sending data but hub cannot
 #### Router vs. Switch and Hub:routers are network endpoints while switches and hubs are not. Switches merely pass the data along to the destination; hubs broadcast it to all connected endpoints, while routers read and process the data in order to determine where it needs to go
-### Network Topologies
-#### Single point of Failure
+### Network Topologies: 
+#### Single point of Failure: a flaw in the design, configuration, or implementation of a system, circuit, or component that poses a potential risk because it could lead to a situation in which just one malfunction or fault causes the whole system to stop working.
 #### Infrastrucutre vs. Wireless Mesh
 ### Network Design
-### NSA/CSS
+### NSA/CSS: NSA Cybersecurity prevents and eradicates threats to U.S. national security systems with a focus on the Defense Industrial Base and the improvement of our weapons’ security.
 
 ## Cybersecurity and Encryption
 
